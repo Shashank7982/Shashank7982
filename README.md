@@ -1,30 +1,34 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">Hi 👋, I'm Shashank Srivastava</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | ML Enthusiast</h3>
-
+<!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-📍 New Delhi, India <br/>
-🎓 BTech CSE @ The NorthCap University <br/>
-💻 Passionate about building real-world software
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Shashank%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<!-- ===================== NAME TYPING ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;MERN+Stack+Engineer;Machine+Learning+Enthusiast;Data+Visualization+with+Tableau;Building+Real-World+Software"/>
+</p>
+
+<!-- ===================== BASIC INFO ===================== -->
+<p align="center">
+📍 New Delhi, India &nbsp;|&nbsp; 🎓 BTech CSE &nbsp;|&nbsp; 💻 Software Developer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science undergraduate with hands-on experience in **full-stack web development**, **machine learning**, and **data visualization**. I enjoy building scalable applications, solving real-world problems, and continuously improving my technical skills through projects and internships.
+I’m a Computer Science undergraduate with hands-on experience in **full-stack web development**, **machine learning**, and **data visualization**. I enjoy building scalable applications, writing clean code, and solving real-world problems through technology.
 
-I believe in learning by doing, writing clean code, and understanding systems deeply rather than just making things work.
+I believe in learning deeply, shipping meaningful work, and constantly improving my engineering mindset.
 
 ---
 
 ## 🎯 Currently Focused On
 
 - Strengthening **Data Structures & Algorithms**
-- Building **production-ready MERN stack applications**
-- Improving **backend architecture & REST APIs**
-- Applying **machine learning models** to real datasets
+- Building **scalable MERN stack applications**
+- Improving **backend system design**
+- Applying **machine learning** to real datasets
 - Preparing for **software engineering interviews**
 
 ---
@@ -32,30 +36,24 @@ I believe in learning by doing, writing clean code, and understanding systems de
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-- Java  
-- Python  
-- JavaScript  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark"/>
+</p>
 
 ### 🌐 Web Development
-- HTML5, CSS3  
-- React.js  
-- Node.js  
-- Express.js  
-- EJS  
-- REST APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,ejs&theme=dark"/>
+</p>
 
-### 🗄️ Databases
-- MongoDB  
-- SQL  
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma&theme=dark"/>
+</p>
 
 ### 📊 Data & Machine Learning
-- Tableau  
-- Regression Models (Linear & Logistic)
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- Figma  
-- VS Code  
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+</p>
 
 ---
 
@@ -63,70 +61,78 @@ I believe in learning by doing, writing clean code, and understanding systems de
 
 ### 🧑‍💻 Software Intern — TechOctanet Services (Remote)
 **Jun 2024 – Aug 2024**
-
-- Developed responsive frontend interfaces using HTML, CSS, and JavaScript  
-- Built interactive UI components and JavaScript-based utilities  
-- Strengthened core web development concepts and best practices  
-
----
+- Built responsive frontend interfaces using HTML, CSS, and JavaScript  
+- Developed interactive UI components and JS utilities  
+- Strengthened web fundamentals and best practices  
 
 ### 🧑‍💻 Software Developer Intern — Joblient Technologies (Remote)
 **Jun 2025 – Aug 2025**
-
-- Worked on MERN stack features for production-level applications  
-- Designed UI components in Figma and implemented them in React.js  
-- Built and integrated RESTful APIs using Node.js and Express  
-- Ensured smooth frontend–backend data flow  
+- Worked on production-level MERN stack features  
+- Designed UI in Figma and implemented it in React  
+- Built RESTful APIs using Node.js and Express  
+- Ensured smooth frontend–backend integration  
 
 ---
 
 ## 📂 Projects (Overview)
 
 - **Full-Stack Rental Booking Platform**  
-  End-to-end application with authentication, listings, bookings, and REST APIs  
+  Authentication, listings, bookings, REST APIs, MongoDB backend  
 
 - **Music Data Visualization Dashboard**  
-  Interactive Tableau dashboards analyzing global music trends  
+  Interactive Tableau dashboards for global Spotify trends  
 
 - **IPL Match Outcome Prediction Model**  
-  Machine learning project using historical IPL data (2008–2024)
+  ML-based prediction using historical IPL data (2008–2024)
 
 ---
 
 ## 🏅 Certifications
 
-- **Microsoft Azure AI Fundamentals (AI-900)**  
+- 🏆 **Microsoft Azure AI Fundamentals (AI-900)**  
   Score: **863 / 1000**
 
 ---
 
 ## ⚡ Skills Snapshot
 
-- Frontend: HTML, CSS, React  
-- Backend: Node.js, Express, REST APIs  
-- Database: MongoDB, SQL  
-- Programming: Java, Python, JavaScript  
-- Data & ML: Tableau, Predictive Models  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express, REST APIs  
+- **Database:** MongoDB, SQL  
+- **Programming:** Java, Python, JavaScript  
+- **Data & ML:** Tableau, Predictive Models  
 
 ---
 
 ## 🧠 How I Work
 
-- I focus on **clean, readable, and scalable code**
-- I prefer understanding the **why**, not just the how
-- I break complex problems into simple, logical steps
-- I believe consistency beats intensity
+- I write **clean, maintainable, scalable code**
+- I focus on **understanding systems**, not shortcuts
+- I break complex problems into simple solutions
+- I value consistency, discipline, and growth
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **shashanksrivastava866@gmail.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/shashank-srivastava-6a12281b7**
+<p>
+  <a href="mailto:shashanksrivastava866@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shashank-srivastava-6a12281b7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-<strong>⚡ “Build. Learn. Improve. Repeat.”</strong>
+<strong>⚡ Build. Learn. Improve. Repeat.</strong>
 </p>
+
+<!-- ===================== FOOTER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
 

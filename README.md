@@ -1,137 +1,132 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Shashank%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+<!-- ===================== HEADER ===================== -->
 
-<!-- ===================== TYPING ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Engineer;Machine+Learning+Enthusiast;Data+Visualization+with+Tableau;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80"/>
-</p>
+<h1 align="center">Hi 👋, I'm Shashank Srivastava</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | ML Enthusiast</h3>
 
-<!-- ===================== VISITOR COUNTER ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shashank7982&label=Profile%20Views&color=0e75b6&style=flat"/>
+📍 New Delhi, India <br/>
+🎓 BTech CSE @ The NorthCap University <br/>
+💻 Passionate about building real-world software
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- 🎓 BTech CSE student  
-- 💻 Full-Stack Web Developer (MERN Stack)  
-- 🤖 Machine Learning enthusiast with real-world projects  
-- 📊 Passionate about data visualization & analytics  
-- 🧠 Strong fundamentals, clean code & scalability focus  
-- 🎯 Goal: Land a **high-impact, high-paying software role**
+I am a Computer Science undergraduate with hands-on experience in **full-stack web development**, **machine learning**, and **data visualization**. I enjoy building scalable applications, solving real-world problems, and continuously improving my technical skills through projects and internships.
+
+I believe in learning by doing, writing clean code, and understanding systems deeply rather than just making things work.
+
+---
+
+## 🎯 Currently Focused On
+
+- Strengthening **Data Structures & Algorithms**
+- Building **production-ready MERN stack applications**
+- Improving **backend architecture & REST APIs**
+- Applying **machine learning models** to real datasets
+- Preparing for **software engineering interviews**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark"/>
-</p>
+- Java  
+- Python  
+- JavaScript  
 
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,ejs&theme=dark"/>
-</p>
+- HTML5, CSS3  
+- React.js  
+- Node.js  
+- Express.js  
+- EJS  
+- REST APIs  
 
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma&theme=dark"/>
-</p>
+### 🗄️ Databases
+- MongoDB  
+- SQL  
 
-### 📊 Data / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-</p>
+### 📊 Data & Machine Learning
+- Tableau  
+- Regression Models (Linear & Logistic)
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- Figma  
+- VS Code  
 
 ---
 
 ## 💼 Experience
 
 ### 🧑‍💻 Software Intern — TechOctanet Services (Remote)
-- Developed responsive frontend interfaces using HTML, CSS & JavaScript  
-- Built interactive and functional UI components  
-- Strengthened core web development skills  
+**Jun 2024 – Aug 2024**
+
+- Developed responsive frontend interfaces using HTML, CSS, and JavaScript  
+- Built interactive UI components and JavaScript-based utilities  
+- Strengthened core web development concepts and best practices  
+
+---
 
 ### 🧑‍💻 Software Developer Intern — Joblient Technologies (Remote)
-- Worked on production-level MERN stack features  
-- Designed UI in Figma and implemented in React  
-- Built RESTful APIs with Node.js & Express  
-- Ensured smooth frontend–backend integration  
+**Jun 2025 – Aug 2025**
+
+- Worked on MERN stack features for production-level applications  
+- Designed UI components in Figma and implemented them in React.js  
+- Built and integrated RESTful APIs using Node.js and Express  
+- Ensured smooth frontend–backend data flow  
 
 ---
 
-## 📜 Certifications
+## 📂 Projects (Overview)
 
-- 🏆 **Microsoft Azure AI Fundamentals (AI-900)**  
-  **Score:** 863 / 1000  
+- **Full-Stack Rental Booking Platform**  
+  End-to-end application with authentication, listings, bookings, and REST APIs  
 
----
+- **Music Data Visualization Dashboard**  
+  Interactive Tableau dashboards analyzing global music trends  
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank7982&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shashank7982&theme=tokyonight&hide_border=true" />
-</p>
+- **IPL Match Outcome Prediction Model**  
+  Machine learning project using historical IPL data (2008–2024)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashank7982&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Auto-Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shashank7982/Shashank7982/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+- **Microsoft Azure AI Fundamentals (AI-900)**  
+  Score: **863 / 1000**
 
 ---
 
-## 🌗 Auto Dark / Light Mode Stats
+## ⚡ Skills Snapshot
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=Shashank7982&show_icons=true&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=Shashank7982&show_icons=true&theme=default&hide_border=true">
-    <img alt="GitHub Stats" />
-  </picture>
-</p>
+- Frontend: HTML, CSS, React  
+- Backend: Node.js, Express, REST APIs  
+- Database: MongoDB, SQL  
+- Programming: Java, Python, JavaScript  
+- Data & ML: Tableau, Predictive Models  
+
+---
+
+## 🧠 How I Work
+
+- I focus on **clean, readable, and scalable code**
+- I prefer understanding the **why**, not just the how
+- I break complex problems into simple, logical steps
+- I believe consistency beats intensity
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:shashanksrivastava866@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/shashank-srivastava-6a12281b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- 📧 Email: **shashanksrivastava866@gmail.com**  
+- 💼 LinkedIn: **https://linkedin.com/in/shashank-srivastava-6a12281b7**
 
 ---
 
 <p align="center">
-  <strong>⚡ Build. Learn. Break. Improve. Repeat.</strong>
+<strong>⚡ “Build. Learn. Improve. Repeat.”</strong>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>

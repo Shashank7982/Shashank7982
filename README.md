@@ -75,12 +75,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shashank7982&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank7982&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank7982&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank7982&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shashank7982&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -88,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashank7982&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashank7982&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
